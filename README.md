@@ -1,6 +1,6 @@
 # Consumo da API usando React
 
-Front-end em React consumindo a API de Notas (Laravel) criada em aula. O projeto usa Axios para chamadas HTTP, formulário para criar notas e tabela para listar as notas do banco.
+Front-end em React consumindo a [API de Notas](https://github.com/LucasGabriel408/apilaravel) construída em Laravel. Utiliza Axios para chamadas HTTP, formulário controlado para criar notas e tabela para listagem.
 
 ## Requisitos da tarefa
 - Criar uma aplicação React que consome a API por Fetch ou Axios
