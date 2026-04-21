@@ -1,4 +1,4 @@
-# [Tarefa] Consumo da API usando React
+# Consumo da API usando React
 
 Front-end em React consumindo a API de Notas (Laravel) criada em aula. O projeto usa Axios para chamadas HTTP, formulário para criar notas e tabela para listar as notas do banco.
 
