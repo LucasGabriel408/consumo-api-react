@@ -1,5 +1,11 @@
 # Consumo da API usando React
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?logo=axios&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Acadêmico%20%7C%20Portfólio-2ea44f)
+
 Front-end em React consumindo a [API de Notas](https://github.com/LucasGabriel408/apilaravel) construída em Laravel. Utiliza Axios para chamadas HTTP, formulário controlado para criar notas e tabela para listagem.
 
 ## Requisitos da tarefa
